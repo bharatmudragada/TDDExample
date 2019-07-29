@@ -1,2 +1,4 @@
 class ComplexNumber:
-    pass
+
+    def __init__(self, real, imaginary):
+        pass

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="76f8cf0c-2600-4bc0-a1ee-90db73c84fde" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/complex_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/complex_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_complex_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_complex_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +31,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test_complex_numbers.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+                <state relative-caret-position="105">
+                  <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
                   </folding>
@@ -48,8 +47,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/complex_numbers.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" selection-start-line="2" selection-end-line="2" />
+                <state relative-caret-position="45">
+                  <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
                 </state>
               </provider>
             </entry>
@@ -69,7 +68,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="6555ad9da125396db7f06c3f40cce799e29ebee9" />
+        <entry key="$PROJECT_DIR$" value="9f6c5380e2ad7fc2fe7080508c55989d978d31c5" />
       </map>
     </option>
   </component>
@@ -78,8 +77,8 @@
       <list>
         <option value="$PROJECT_DIR$/pytest.ini" />
         <option value="$PROJECT_DIR$/todo.md" />
-        <option value="$PROJECT_DIR$/complex_numbers.py" />
         <option value="$PROJECT_DIR$/test_complex_numbers.py" />
+        <option value="$PROJECT_DIR$/complex_numbers.py" />
       </list>
     </option>
   </component>
@@ -210,15 +209,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/complex_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="45">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_complex_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        <state relative-caret-position="105">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
