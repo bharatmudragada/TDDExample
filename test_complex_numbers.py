@@ -1,4 +1,5 @@
 import pytest
+from complex_numbers import ComplexNumber
 
 def test_complex_number_equality():
     complex_number_one = ComplexNumber(3, 5)
